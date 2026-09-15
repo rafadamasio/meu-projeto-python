@@ -1,0 +1,21 @@
+order_id,customer_id,product,category,quantity,unit_price,order_date,country
+1001,23,Laptop,Electronics,1,899.99,2026-01-03,Portugal
+1002,17,Keyboard,Electronics,2,49.99,2026-01-03,Spain
+1003,45,Desk,Furniture,1,249.00,2026-01-04,Portugal
+1004,12,Mouse,Electronics,3,19.99,2026-01-05,France
+1005,31,Office Chair,Furniture,2,149.50,2026-01-06,Portugal
+1006,8,Monitor,Electronics,1,299.99,2026-01-07,Spain
+1007,23,Headphones,Electronics,2,79.99,2026-01-08,Portugal
+1008,19,Desk Lamp,Home,4,29.99,2026-01-09,France
+1009,42,Notebook,Stationery,10,4.99,2026-01-10,Portugal
+1010,17,Webcam,Electronics,1,89.99,2026-01-11,Spain
+1011,35,Office Chair,Furniture,1,149.50,2026-01-12,Portugal
+1012,8,Laptop,Electronics,1,899.99,2026-01-13,Spain
+1013,27,Keyboard,Electronics,3,49.99,2026-01-14,France
+1014,42,Notebook,Stationery,15,4.99,2026-01-15,Portugal
+1015,19,Desk,Furniture,1,249.00,2026-01-16,France
+1016,31,Monitor,Electronics,2,299.99,2026-01-17,Portugal
+1017,23,Mouse,Electronics,5,19.99,2026-01-18,Portugal
+1018,12,Headphones,Electronics,1,79.99,2026-01-19,France
+1019,35,Desk Lamp,Home,2,29.99,2026-01-20,Portugal
+1020,27,Webcam,Electronics,2,89.99,2026-01-21,France
